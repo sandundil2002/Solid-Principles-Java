@@ -1,0 +1,6 @@
+Liskov Substitution Principle (LSP)
+
+Definition : Objects of a superclass should be replaceable with objects of a subclass without affecting the correctness of the program.
+
+Explanation : Subclasses should extend the behavior of the parent class without changing its existing behavior.
+In other words, a subclass should behave in such a way that it can replace its parent class without causing issues in the program.

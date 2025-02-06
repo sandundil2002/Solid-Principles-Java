@@ -1,0 +1,6 @@
+Dependency Inversion Principle (DIP)
+
+Definition : High-level modules should not depend on low-level modules. Both should depend on abstractions. Additionally, abstractions should not depend on details; details should depend on abstractions.
+
+Explanation : This principle promotes loose coupling between components by ensuring that high-level modules (business logic)
+depend on abstractions (interfaces or abstract classes) rather than concrete implementations. This makes the system more flexible and easier to modify.

@@ -1,0 +1,7 @@
+Single Responsibility Principle (SRP)
+
+Definition : A class should have only one reason to change, meaning it should have only one responsibility or job.
+
+Explanation : Each class or module should be responsible for a single part of the functionality provided by the software.
+If a class has multiple responsibilities, changes in one responsibility may affect the others,
+making the system harder to maintain and test.
